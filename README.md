@@ -11,3 +11,6 @@ This repository serves as the central index for my data analysis projects.
 
 ## Projects
 Each project is maintained in its own repository and linked here.
+
+- [Transport Expenses Analysis](https://github.com/rorygem/project-01-transport-expenses)
+
